@@ -1,10 +1,6 @@
-**FALCO**
 
 
-
-
-
-## Falco
+## ***Falco***
 
 Falco is the open source standard for real-time detection of threats and anomalies across containers, Kubernetes, and cloud services.
 
