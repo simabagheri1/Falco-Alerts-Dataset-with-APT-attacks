@@ -20,11 +20,10 @@ running Lubuntu 20.04. One VM as master node (eight vCPUs and 32GB RAM), and ten
 
 ## Dataset Structure
 ### Attack Falco Alert Profile
-
-Markup : ```javascript
-         ```
-         
 Falco alerts collected from three simulated attacks:
+```javascript```
+         
+
 Markup : - Strategic Web Compromise https://www.fireeye.com/blog/threat-research/2015/07/second adobe flashz0.htm
           - cdcd
 
